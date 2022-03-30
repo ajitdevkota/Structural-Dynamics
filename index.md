@@ -2,4 +2,4 @@ Welcome to my Structural Dynamics Page
 
 
 
-(About)(about.html)
+(About)[about.html]
