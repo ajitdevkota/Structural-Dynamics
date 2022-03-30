@@ -13,7 +13,7 @@ u_{n+1} = A\:u_n + B\:\dot{u}_{n} +C\:p_n + D\:p_{n+1}
 \dot{u}_{n+1} = A_1\:u_n + B_1\:\dot{u}_n + C_1\:p_n + D_1\:p_{n+1}
 \end{equation}
 
-where the constants $A$ to $D_1$ are given by (take a deep breath!)...
+where,
 
 \begin{equation}
 A = e^{-\xi\omega_nh}\left[\frac{\xi}{\sqrt{1-\xi^2}}\sin(\omega_dh) + \cos(\omega_dh) \right]
