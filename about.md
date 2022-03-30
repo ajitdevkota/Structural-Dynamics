@@ -4,6 +4,7 @@ By Ajit Devkota
 
 PS: Check out the latex:
 
+$$ y = mx + c $$
 
 \begin{equation}
 u_{n+1} = A\:u_n + B\:\dot{u}_{n} +C\:p_n + D\:p_{n+1}
